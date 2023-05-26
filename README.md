@@ -1,4 +1,4 @@
-CalculatorAppUsingSwings
+Calculator App Using Swings
 Operations Performed:
 -Addition
 -Subtraction
